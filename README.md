@@ -1,2 +1,2 @@
 # Recommendation-Network
-## Sickit-Surprise module
+## Scikit-Surprise module
