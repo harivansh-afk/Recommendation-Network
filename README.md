@@ -1,6 +1,6 @@
 # Course Scheduling Order
 
-## Authors and Affiliations
+### Authors and Affiliations
 **Harivansh Rathi**  
 UVA Class of 2027
 
