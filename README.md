@@ -1,5 +1,9 @@
 # Course Scheduling Order
 
+## Authors and Affiliations
+**Harivansh Rathi**  
+UVA Class of 2027
+
 ### Overview
 This project provides a solution to the course scheduling problem, where a set of courses and prerequisites are given, and the task is to determine a valid order in which the courses should be taken. This project is implemented in Python, leveraging topological sorting (using Kahn's Algorithm) to handle dependency management for course prerequisites.
 
